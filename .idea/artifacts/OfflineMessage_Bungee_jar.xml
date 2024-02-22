@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OfflineMessage_Bungee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OfflineMessage_Bungee_jar</output-path>
+    <root id="archive" name="OfflineMessage_Bungee.jar">
+      <element id="module-output" name="OfflineMessage_Bungee" />
+      <element id="file-copy" path="$PROJECT_DIR$/bungee.yml" />
+    </root>
+  </artifact>
+</component>
